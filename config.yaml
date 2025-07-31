@@ -1,0 +1,9 @@
+folder_root: /home/mch/QA/tests/test_dir/
+folder_in: /home/mch/QA/tests/test_dir/folder_in/
+folder_out: /home/mch/QA/tests/test_dir/folder_out/
+folder_ext: /home/mch/QA/tests/test_dir/folder_ext/
+folder_ext2: /home/mch/QA/tests/test_dir/folder_ext2/
+count: 5
+bs: 1M
+7z_format: 7z
+
